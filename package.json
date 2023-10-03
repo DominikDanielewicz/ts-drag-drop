@@ -1,0 +1,19 @@
+{
+  "name": "ts-drag-drop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominikDanielewicz/ts-drag-drop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominikDanielewicz/ts-drag-drop/issues"
+  },
+  "homepage": "https://github.com/DominikDanielewicz/ts-drag-drop#readme"
+}
